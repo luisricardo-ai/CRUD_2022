@@ -1,9 +1,0 @@
-1;Lajeado;RS
-2;Estrela;RS
-3;Curitiba;PR
-4;Toledo;PR
-5;Laguna;SC
-6;Criciuma;SC
-7;Lages;RS
-8;Taquari;RS
-9;Soledade;MG
